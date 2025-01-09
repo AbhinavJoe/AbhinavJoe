@@ -4,14 +4,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhinavJoe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=AbhinavJoe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=AbhinavJoe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhinavJoe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif?cid=790b7611rs6z838sa3e9p62byxd7of0xhseb8mh36cvtls78&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-<!-- <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhhMmEyZ3Ewa2R6NTc3eTdzdnA4MDB5YWZydW16bmZ5cGs4cjFjOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4OV1bLOIWwIXRxpXlN/giphy.gif"  /> -->
+<!-- <img align="right" height="200" src="https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif?cid=790b7611rs6z838sa3e9p62byxd7of0xhseb8mh36cvtls78&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> -->
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhhMmEyZ3Ewa2R6NTc3eTdzdnA4MDB5YWZydW16bmZ5cGs4cjFjOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4OV1bLOIWwIXRxpXlN/giphy.gif"  />
 
 ###
 
