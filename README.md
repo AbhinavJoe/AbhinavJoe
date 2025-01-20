@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhinav and I'm a student, content creator, and corporate slave, from India</h2>
+<h2 align="left">Hi 👋! My name is Abhinav and I'm a student and to-be content creator from India</h2>
 
 ###
 
