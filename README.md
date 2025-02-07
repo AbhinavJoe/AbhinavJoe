@@ -74,8 +74,7 @@
 ###
 
 <br clear="both">
-<hr/>
 
 <!-- <img src="https://raw.githubusercontent.com/AbhinavJoe/AbhinavJoe/output/snake.svg" alt="Snake animation" /> -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
